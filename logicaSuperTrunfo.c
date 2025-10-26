@@ -26,7 +26,6 @@ void exibir_carta(CartaSuperTrunfo carta, int numero_carta) {
 
 
 int main() {
-    // Definição das variáveis para armazenar as propriedades das cidades
     // (Cadastro das Cartas: Tema 1)
     CartaSuperTrunfo cartas[8]; 
 
